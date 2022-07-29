@@ -1,2 +1,0 @@
-# pagina
-Página de demostración
